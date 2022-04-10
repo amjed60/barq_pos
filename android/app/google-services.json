@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "541545168068",
+    "project_id": "barqforpos",
+    "storage_bucket": "barqforpos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541545168068:android:13d0553a5c20dcef5d5d91",
+        "android_client_info": {
+          "package_name": "com.barqforpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541545168068-qsmq3r9cj2pc9ei8n0bt9pt947gdchgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barqforpos",
+            "certificate_hash": "a579149437a7653512988a085475d17e3dc12f70"
+          }
+        },
+        {
+          "client_id": "541545168068-k3v1rujlrpbql40mdvp8qh8lvd90m5si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUhtE0vbfQkbiEgzLz9xY1txN2IemTTR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541545168068-k3v1rujlrpbql40mdvp8qh8lvd90m5si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
